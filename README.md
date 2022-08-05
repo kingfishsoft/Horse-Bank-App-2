@@ -13,4 +13,4 @@ used the https://fxmarketapi.com/ API for the data.
 Retrofit2 was used to access the API data. 
 Helped me to load the data asynchronously therefore I did not have to use Work Manager.
 
-I also wrote instrumented unit test using JUNIT 4 and Expresso.
+I also wrote instrumented unit test using JUNIT 4 and Espresso.
